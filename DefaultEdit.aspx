@@ -35,7 +35,7 @@
         <div class="column full center">
          <br />
             <button onclick="save()" class="btn btn-primary"> Save </button>
-            <a href ="../bookings/default.aspx"  class="btn btn-primary">Back to Bookings</a>
+            <a href ="../bookings/default.aspx"  class="btn btn-primary">Back to Bkkkkookings</a>
           
         </div>
     </div>
